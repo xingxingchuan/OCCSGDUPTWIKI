@@ -1,6 +1,5 @@
-# SorinWiki
-A wiki of Soar In Nebula Minecraft Server. 
+# OCCS of GDUPT Wiki
+A wiki is used by Omnimedia Center for College Students of GDUPT.
 Now it is been rebuilding.
 Build With Docsify.
-Using From NyaaCat.
-Customed by KujouAmedaku.
+Customed by Chaitanya Yang.
