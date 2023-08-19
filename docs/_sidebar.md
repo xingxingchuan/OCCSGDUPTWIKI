@@ -1,5 +1,5 @@
 - 行政
-	- [行政小组](/governers.md)
+	- [行政小组](/management/governers.md)
 - OCCSWiki
 	- [更新日志](/changelogs.md)
 	- [声明与感谢](/rights.md)
