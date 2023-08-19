@@ -1,32 +1,5 @@
-- 初心者の第一步
-	- [守则](/rules.md)
-	- [新手指南](/hajimete.md)
-	- [客户端](/cilent.md)
-	- [社群](/communi.md)
-	- [注意事项](/caution.md)
-- 基础功能
-	- [商店与全球市场](/plugins/shopandmarket.md)
-	- [领地与锁箱](/plugins/resandlock.md)
-	- [邮件与邮箱](/plugins/mail.md)
-	- [飞行管理系统(暂缓开通)](/plugins/tempfly.md)
-	- [武器附魔系统(暂缓开通)](/plugins/enchantsystem.md)
-	- [职业系统(暂缓开通)](/plugins/jobsystem.md)
-	- [其他辅助插件](/plugins/otherplay.md)
-- 成就与奖励
-	- [称号](/honer/tag.md)
-	- [奖励](/honer/prise.md)
-	- [关于正版与EULA](/honer/legal.md)
-- RPG设定
-	- [RPG物品一览](/RPG/material.md)
-	- [RPG物品合成公式](/RPG/compose.md)
-	- [刷怪房](/RPG/moreexp.md)
-- 次元
-	- [总览](/world/global.md)
-	- [千夏凉都](/world/senkasuzu.md)
-- 经济与支持
-	- [疏林经济系统(已过时)](/eco/system.md)
-	- [支持](/eco/support.md)
-	- [特殊权限组详细说明](/eco/detail.md)
-- 疏林Wiki
+- 行政
+	- [行政小组](/governers.md)
+- OCCSWiki
 	- [更新日志](/changelogs.md)
 	- [声明与感谢](/rights.md)
