@@ -1,3 +1,3 @@
-* [主页](https://likipiaria.ink)
-* [GitHub](https://github.com/xingxingchuan/SorinWiki)
+* [学校官网](https://gdupt.edu.cn)
+* [GitHub](https://github.com/xingxingchuan/OCCSGDUPTWIKI)
 * [更新日志](changelog.md)
