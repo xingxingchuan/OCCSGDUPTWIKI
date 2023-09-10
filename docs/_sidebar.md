@@ -1,5 +1,5 @@
-- 行政
-	- [行政小组](/management/governers.md)
-- OCCSWiki
-	- [更新日志](/changelogs.md)
-	- [声明与感谢](/rights.md)
+- 管理
+  - [总制度](/management/governers.md)
+  - [活动场地使用规范](/management/workplace.md)
+- - [更新日志](/changelogs.md)
+  - [声明与感谢](/rights.md)
