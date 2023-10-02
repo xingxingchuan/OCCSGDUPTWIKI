@@ -1,5 +1,11 @@
+- 工作规范
+  - [注意事项](/workspace/caution.md)
+- 新人指南
+  - [1.人际、工作和礼仪](/freshmen/manner.md)
+  - [2.新媒体工作概述](/freshmen/summary.md)
 - 管理
   - [总制度](/management/governers.md)
   - [活动场地使用规范](/management/workplace.md)
-- - [更新日志](/changelogs.md)
+- 关于
+  - [更新日志](/changelogs.md)
   - [声明与感谢](/rights.md)
